@@ -1,0 +1,4 @@
+.idea
+mysite_env/settings.py
+db.sqlite3
+mysite_env/__pycache__/
